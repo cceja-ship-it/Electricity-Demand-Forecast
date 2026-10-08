@@ -1,0 +1,14 @@
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Raw data (re-download with `python src/data_pipe.py`)
+data/raw/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
